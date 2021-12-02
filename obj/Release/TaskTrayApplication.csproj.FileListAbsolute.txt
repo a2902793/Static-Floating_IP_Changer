@@ -1,0 +1,10 @@
+C:\Users\a2902\Desktop\TaskTrayApplication\bin\Release\TaskTrayApplication.exe.config
+C:\Users\a2902\Desktop\TaskTrayApplication\bin\Release\TaskTrayApplication.exe
+C:\Users\a2902\Desktop\TaskTrayApplication\bin\Release\TaskTrayApplication.pdb
+C:\Users\a2902\Desktop\TaskTrayApplication\obj\Release\TaskTrayApplication.csprojAssemblyReference.cache
+C:\Users\a2902\Desktop\TaskTrayApplication\obj\Release\TaskTrayApplication.Configuration.resources
+C:\Users\a2902\Desktop\TaskTrayApplication\obj\Release\TaskTrayApplication.Properties.Resources.resources
+C:\Users\a2902\Desktop\TaskTrayApplication\obj\Release\TaskTrayApplication.csproj.GenerateResource.cache
+C:\Users\a2902\Desktop\TaskTrayApplication\obj\Release\TaskTrayApplication.csproj.CoreCompileInputs.cache
+C:\Users\a2902\Desktop\TaskTrayApplication\obj\Release\TaskTrayApplication.exe
+C:\Users\a2902\Desktop\TaskTrayApplication\obj\Release\TaskTrayApplication.pdb
